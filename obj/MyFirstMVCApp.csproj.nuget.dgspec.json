@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\MyFirstMVCApp\\MyFirstMVCApp.csproj": {}
+    "C:\\projects\\dotnet\\.Net_Basic\\MyFirstMVCApp.csproj": {}
   },
   "projects": {
-    "C:\\projects\\MyFirstMVCApp\\MyFirstMVCApp.csproj": {
+    "C:\\projects\\dotnet\\.Net_Basic\\MyFirstMVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\MyFirstMVCApp\\MyFirstMVCApp.csproj",
+        "projectUniqueName": "C:\\projects\\dotnet\\.Net_Basic\\MyFirstMVCApp.csproj",
         "projectName": "MyFirstMVCApp",
-        "projectPath": "C:\\projects\\MyFirstMVCApp\\MyFirstMVCApp.csproj",
-        "packagesPath": "C:\\Users\\hasne.hossain\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\MyFirstMVCApp\\obj\\",
+        "projectPath": "C:\\projects\\dotnet\\.Net_Basic\\MyFirstMVCApp.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\dotnet\\.Net_Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hasne.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
